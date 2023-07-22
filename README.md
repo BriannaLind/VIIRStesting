@@ -17,7 +17,7 @@ Filter product granules by adding a Granule ID. This is particulalry useful if y
 ![image](https://github.com/BriannaLind/VIIRStesting/assets/104585874/923ee4f5-2bd0-4e18-a44a-a286117cce7a)
 
 # Step 4: 
-Choose a granule and click on the set of 3 vertically-aligned grey circles the upper right-hand corner of the granule box.  This action reveals two choices: 1) 'View details', and 2) 'Filter granule'. Click 'View details'.
+Choose a granule and click on the set of 3 vertically-aligned grey circles the upper right corner of the granule box.  This action reveals two choices: 1) 'View details', and 2) 'Filter granule'. Click 'View details'.
 
 ![image](https://github.com/BriannaLind/VIIRStesting/assets/104585874/d573a5c7-61ce-458e-955a-647564f4d1d9)
 
@@ -25,3 +25,24 @@ Choose a granule and click on the set of 3 vertically-aligned grey circles the u
 Examine the 'Information' tab.  It contains links to many resources associated with this specific granule (VNP09A1.A2023169.h18v03.002.2023179035600). 
 
 ![image](https://github.com/BriannaLind/VIIRStesting/assets/104585874/467c4873-3ad7-45c2-ac2a-b5026a533487)
+
+# Step 6:
+Press 'control, f' to reveal a webpage search bar.  
+- To download the granule frome earthdata search: type 'h5' in the search bar and press enter.
+  Copy the https url that starts with 'data.lpdaac.earthcloud.nasa.gov...' and ends with '.h5', paste it into a new browser and press enter; it will begin downloading. 
+
+  ![image](https://github.com/BriannaLind/VIIRStesting/assets/104585874/e048f7b3-2ff4-431b-ba00-a619c1cfe790)
+
+- To download the granule from opendap: type 'opendap' in the search bar and press enter.
+
+  ![image](https://github.com/BriannaLind/VIIRStesting/assets/104585874/986c94e3-f5c3-4727-9f65-006bce1ad1f5)
+
+  Copy the https url that starts with 'opendap.earthdata.nasa.gov...' and paste it into a new browser and press enter. 
+
+  ![image](https://github.com/BriannaLind/VIIRStesting/assets/104585874/bfedd7ee-86d2-4f7a-8b86-a4db934d6ddd)
+
+  Choose "NetCDF-4" y=under Actions, Download encoding: in the upper left of the page. The data URL will update to have a 'dap.nc4' on the end. 
+
+  ![image](https://github.com/BriannaLind/VIIRStesting/assets/104585874/5e85bc96-2a15-402b-b456-75212d7228f8)
+
+  Press the 'Get Data' button and choose the location you would like you save the file. 
