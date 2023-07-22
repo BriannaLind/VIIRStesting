@@ -1,5 +1,5 @@
-# VIIRStesting
-compare VIIRS v02 opendap (netcdf4) and earthdata search(hdf5) files
+# Access Granule-associated URL links from Earthdata Search
+opendap (netcdf4) and earthdata search(hdf5) files
 
 # Step 1:
 Navigate to https://search.earthdata.nasa.gov/search. Type the product short name into the bar on the top left of the screen. For example VIIRS vegetation indices products have the short name VNP09A1. 
