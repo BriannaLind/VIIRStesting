@@ -1,5 +1,5 @@
 
-# Difference Testing VIIRS 09A1 
+# Difference Testing VIIRS 09GA 
 
 ## Packages used in this script
 packages = c('raster', 'ncdf4')
